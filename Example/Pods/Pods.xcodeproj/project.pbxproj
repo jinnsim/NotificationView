@@ -74,6 +74,7 @@
 		E017C196218C821700B87FB6 /* NotificationTextContainerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NotificationTextContainerView.swift; path = NotificationView/Classes/NotificationTextContainerView.swift; sourceTree = "<group>"; };
 		E069B4A5218D85D600CB65AE /* Extensions+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Extensions+.swift"; path = "NotificationView/Classes/Extensions+.swift"; sourceTree = "<group>"; };
 		F3EA0E40DE56C645D737992A3CC119BA /* Pods-NotificationView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-NotificationView_Example.modulemap"; sourceTree = "<group>"; };
+		F44CB344238776EA00223DDC /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 		F69AFFB64B2D89ECC7AFC8C52FB48EF8 /* NotificationView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NotificationView-umbrella.h"; sourceTree = "<group>"; };
 		F6F54152C465EA8E8F3E776A1DFB5F7F /* Pods-NotificationView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NotificationView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		FCF56894FE1BD3CBFA9DB6F2E6A1F51E /* Pods_NotificationView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NotificationView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -144,6 +145,7 @@
 				343FDBD7AA5088C66581D0A5946A027F /* NotificationView-dummy.m */,
 				444A40A6FFCA25AF4D9496F6785267AD /* NotificationView-prefix.pch */,
 				F69AFFB64B2D89ECC7AFC8C52FB48EF8 /* NotificationView-umbrella.h */,
+				F44CB344238776EA00223DDC /* Colors.xcassets */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/NotificationView";
